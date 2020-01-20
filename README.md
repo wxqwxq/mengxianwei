@@ -16,7 +16,7 @@
       <p>岗位：安徽四创电子股份有限公司北斗系统与应用事业部主任 北斗卫星导航技术安徽省重点实验室主任</p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/无标题.png" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
